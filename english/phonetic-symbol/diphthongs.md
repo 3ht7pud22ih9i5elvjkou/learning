@@ -1,14 +1,14 @@
 
 # Diphthongs
 
-1. [/ɪə/](#useər-conteənt-1-ɪə)
-2. [/ʊə/](#useər-conteənt-2-ʊə)
-3. [/aɪ/](#useər-conteənt-3-aɪ)
-4. [/ɔɪ/](#useər-conteənt-4-ɔɪ)
-5. [/əʊ/](#useər-conteənt-5-əʊ)
-6. [/eə/](#useər-conteənt-6-eə)
-7. [/aʊ/](#useər-conteənt-7-aʊ)
-8. [/eɪ/](#useər-conteənt-7-eɪ)
+1. [/ɪə/](#user-content-1-ɪə)
+2. [/ʊə/](#user-content-2-ʊə)
+3. [/aɪ/](#user-content-3-aɪ)
+4. [/ɔɪ/](#user-content-4-ɔɪ)
+5. [/əʊ/](#user-content-5-əʊ)
+6. [/eə/](#user-content-6-eə)
+7. [/aʊ/](#user-content-7-aʊ)
+8. [/eɪ/](#user-content-7-eɪ)
 
 ## 1. /ɪə/
 
