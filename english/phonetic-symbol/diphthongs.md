@@ -64,7 +64,7 @@
 |    boat     |    /bəʊt/     |
 |    show     |    /ʃəʊ/      |
 |    know     |    /nəʊ/      |
-|    no       |    /əʊ/       |
+|    no       |    /nəʊ/      |
 |    goat     |    /gəʊt/     |
 
 #### 5.2 Similar sounds
@@ -101,17 +101,17 @@
 
 |  Word  |  Sound    |
 |--------|-----------|
-|  mouth |  /traʊp/  |
-|  now   |  /staʊmp/ |
-|  fowl  |  /baʊk/   |
+|  mouth |  /maʊθ/   |
+|  now   |  /naʊ/    |
+|  fowl  |  /faʊl/   |
 
 #### 7.2 Similar sounds
 
 |      /aʊ/        |        /əʊ/         |
 |------------------|---------------------|
-| couch   /kaʊtʃ/  |     coach /cəʊtʃ/   |
-| clown   /klaʊn/  |     clone /cləʊn/   |
-| loud    /laʊd/   |     load /ləʊd/     |
+| couch   /kaʊʧ/   |     coach  /cəʊʧ/   |
+| clown   /klaʊn/  |     clone  /cləʊn/  |
+| loud    /laʊd/   |     load   /ləʊd/   |
 | found   /faʊnd/  |     phoned /fəʊnd/  |
 
 ## 8. /eɪ/
@@ -122,16 +122,16 @@
 |--------|-----------|
 |  face  |  /feɪs/   |
 |  day   |  /deɪ/    |
-|  break |  /beɪk/   |
+|  break |  /breɪk/  |
 
 #### 8.2 Similar sounds
 
 |      /eɪ/      |        /iː/       |
 |----------------|-------------------|
-| ate   /eɪt/    |     eat /iːt/     |
+| ate   /eɪt/    |     eat   /iːt/   |
 | faced /feɪst/  |     feast /fiːst/ |
 | great /greɪt/  |     greet /griːt/ |
-| mate  /meɪt/   |     meet /miːt/   |
+| mate  /meɪt/   |     meet  /miːt/  |
 
 
 > Reəfeəreənceə from BBCLeəarningeənglish
