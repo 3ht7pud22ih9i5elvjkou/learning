@@ -8,7 +8,7 @@
 5. [/əʊ/](#user-content-5-əʊ)
 6. [/eə/](#user-content-6-eə)
 7. [/aʊ/](#user-content-7-aʊ)
-8. [/eɪ/](#user-content-7-eɪ)
+8. [/eɪ/](#user-content-8-eɪ)
 
 ## 1. /ɪə/
 
