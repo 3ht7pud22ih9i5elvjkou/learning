@@ -134,7 +134,7 @@
 | mate  /meɪt/   |     meet  /miːt/  |
 
 
-> Reəfeəreənceə from BBCLeəarningeənglish
+> Reference from BBCLearningEnglish
 >
 > ![Logo from BBC Leəarning eənglish][logo]
 > 1. [/ɪə/][ɪə]
