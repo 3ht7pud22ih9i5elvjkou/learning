@@ -10,65 +10,65 @@
 
 #### 1.1 Words have this sound
 
-|   Word    |  Sound      |
-|-----------|-------------|
-|   fleece  |  /fliːs/    |
-|   sea     |  /siː/      |
-|   machine |  /məˈshiːn/ |
+|  Word     |  Sound       |
+|-----------|--------------|
+|  fleece   |  /fliːs/     |
+|  sea      |  /siː/       |
+|  machine  |  /məˈshiːn/  |
 
 #### 1.2 Similar sounds
 
-|      /iː/      |      /ɪ/       |
-|----------------|----------------|
-| litre /ˈliːtə/ | litter /ˈlɪtə/ |
-| cheap /tʃiːp/  | chip /tʃɪp/    |
-| feet /fiːt/    | fit /fɪt/      |
-| he's /hiːz/    | his/hɪz/       |
-| peach /piːtʃ/  | pitch/pɪtʃ/    |
-| sheep /ʃiːp/   | ship/ʃɪp/      |
+|  /iː/            |  /ɪ/             |
+|------------------|------------------|
+|  litre /ˈliːtə/  |  litter /ˈlɪtə/  |
+|  cheap /tʃiːp/   |  chip   /tʃɪp/   |
+|  feet  /fiːt/    |  fit    /fɪt/    |
+|  he's  /hiːz/    |  his    /hɪz/    |
+|  peach /piːtʃ/   |  pitch  /pɪtʃ/   |
+|  sheep /ʃiːp/    |  ship   /ʃɪp/    |
 
 ## 2. /uː/
 
 #### 2.1 Words have this sound
 
-|  Word  |  Sound   |
-|--------|----------|
-|  goose |  /guːs/  |
-|  two   |  /tuː/   |
-|  blue  |  /bluː/  |
-|  group |  /gruːp/ |
+|  Word   |  Sound    |
+|---------|-----------|
+|  goose  |  /guːs/   |
+|  two    |  /tuː/    |
+|  blue   |  /bluː/   |
+|  group  |  /gruːp/  |
 
 ## 3. /ɑː/
 
 #### 3.1 Words have this sound
 
-|   Word   |  Sound   |
-|----------|----------|
-|   father | /ˈfɑːðə/ |
-|   start  | /stɑːt/  |
-|   hard   | /hɑːd/   |
+|  Word    |  Sound     |
+|----------|------------|
+|  father  |  /ˈfɑːðə/  |
+|  start   |  /stɑːt/   |
+|  hard    |  /hɑːd/    |
 
 ## 4. /ɔː/
 
 #### 4.1 Words have this sound
 
-|   Word    | Sound  |
-|-----------|--------|
-|  thought  | /θɔːt/ |
-|  law      | /lɔː/  |
-|  north    | /nɔːθ/ |
-|  war      | /wɔː/  |
+|  Word     |  Sound   |
+|-----------|----------|
+|  thought  |  /θɔːt/  |
+|  law      |  /lɔː/   |
+|  north    |  /nɔːθ/  |
+|  war      |  /wɔː/   |
 
 ## 5. /ɜː/
 
 #### 5.1 Words have this sound
 
-|  Word   |   Sound    |
+|  Word   |  Sound     |
 |---------|------------|
-|  nurse  |   /nɜːs/   |
-|  stir   |   /stɜː/   |
-|  learn  |   /lɜːn/   |
-|  refer  |   /rɪˈfɜː/ |
+|  nurse  |  /nɜːs/    |
+|  stir   |  /stɜː/    |
+|  learn  |  /lɜːn/    |
+|  refer  |  /rɪˈfɜː/  |
 
 > Reference from BBCLearningEnglish
 >
