@@ -101,13 +101,13 @@
 
 #### 5.1 Words have this sound
 
-|  Word   |  Sound     |
-|---------|------------|
-|  very   |  /ˈverɪ/   |
-|  heavy  |  /ˈhəvɪ /  |
-|  move   |  /muːv/    |
-|  verve  |  /vɜːv/    |
-|  view   |  /vjuː/    |
+|  Word   |  Sound    |
+|---------|-----------|
+|  very   |  /ˈverɪ/  |
+|  heavy  |  /ˈhevɪ/  |
+|  move   |  /muːv/   |
+|  verve  |  /vɜːv/   |
+|  view   |  /vjuː/   |
 
 #### 5.2 Similar sounds
 
@@ -147,7 +147,7 @@
 |  zero   |  /ˈzɪərəʊ/   |
 |  music  |  /ˈmjuːzɪk/  |
 |  buzz   |  /bʌz/       |
-|  rose   |  /ˈrrəʊzɪz/  |
+|  rose   |  /ˈrəʊzɪz/  |
 
 #### 7.2 Similar sounds
 
