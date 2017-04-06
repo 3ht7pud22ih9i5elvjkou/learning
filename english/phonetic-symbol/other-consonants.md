@@ -139,7 +139,7 @@
 |  Sentence                |  Sounds                 |
 |--------------------------|-------------------------|
 |  this is my car          |  /ðɪs ɪz maɪ kɑː/       |
-|  my **car** **is** blue  |  /maɪ **kɑːrɪz** blue/  |
+|  my **car** **is** blue  |  /maɪ **kɑːrɪz** bluː/  |
 
 ## 7. /w/
 
