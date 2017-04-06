@@ -6,3 +6,4 @@
  * [Diphthongs](diphthongs.md)
  * [Voiceless Consonants](voiceless-consonants.md)
  * [Voiced Consonants](voiced-consonants.md)
+ * [Other Consonants](other-consonants.md)
