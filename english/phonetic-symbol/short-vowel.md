@@ -80,7 +80,7 @@
 |  of        |  /əv/        |
 |  that      |  /ðət/       |
 |  about     |  /əˈbaʊt/    |
-|  common    |  /ˈcɒmən/    |
+|  common    |  /ˈkɒmən/    |
 |  standard  |  /ˈstændəd/  |
 |  butter    |  /ˈbʌtə/     |
 
