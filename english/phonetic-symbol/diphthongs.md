@@ -108,8 +108,8 @@
 
 |  /aʊ/           |  /əʊ/            |
 |-----------------|------------------|
-|  couch /kaʊʧ/   |  coach  /cəʊʧ/   |
-|  clown /klaʊn/  |  clone  /cləʊn/  |
+|  couch /kaʊʧ/   |  coach  /kəʊʧ/   |
+|  clown /klaʊn/  |  clone  /kləʊn/  |
 |  loud  /laʊd/   |  load   /ləʊd/   |
 |  found /faʊnd/  |  phoned /fəʊnd/  |
 
