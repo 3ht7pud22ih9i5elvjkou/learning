@@ -1,4 +1,4 @@
-# Voiced Consonants
+# Other Consonants
 
 1. [/m/](#user-content-1-m)
 2. [/n/](#user-content-2-n)
