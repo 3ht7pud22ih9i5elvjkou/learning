@@ -14,7 +14,7 @@
 |-----------|--------------|
 |  fleece   |  /fliːs/     |
 |  sea      |  /siː/       |
-|  machine  |  /məˈshiːn/  |
+|  machine  |  /məˈʃiːn/  |
 
 #### 1.2 Similar sounds
 
