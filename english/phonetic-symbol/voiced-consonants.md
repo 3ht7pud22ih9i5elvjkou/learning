@@ -135,7 +135,7 @@
 |  then     |  /ðen/    |
 |  this     |  /ðɪs/    |
 |  that     |  /ðæt/    |
-|  another  |  /ʌðə/    |
+|  other    |  /ʌðə/    |
 |  smooth   |  /smuːð/  |
 
 ## 7. /z/
@@ -147,7 +147,7 @@
 |  zero   |  /ˈzɪərəʊ/   |
 |  music  |  /ˈmjuːzɪk/  |
 |  buzz   |  /bʌz/       |
-|  rose   |  /ˈrəʊzɪz/  |
+|  roses  |  /ˈrəʊzɪz/   |
 
 #### 7.2 Similar sounds
 
@@ -165,7 +165,7 @@
 |------------|------------|
 |  leisure   |  /ˈleʒə/   |
 |  pleasure  |  /ˈpleʒə/  |
-|  vision    |  /ˈvɪʒən/  |
+|  vision    |  /ˈvɪʒn/   |
 |  beige     |  /beɪʒ/    |
 
 > Reference from BBCLearningEnglish
