@@ -151,7 +151,7 @@
 
 #### 7.2 Similar sounds
 
-|  /s/           |  /z/           |
+|  /z/           |  /s/           |
 |----------------|----------------|
 |  buzz  /bʌz/   |  bus   /bʌs/   |
 |  raise /raɪz/  |  rice  /raɪs/  |
@@ -165,7 +165,7 @@
 |------------|------------|
 |  leisure   |  /ˈleʒə/   |
 |  pleasure  |  /ˈpleʒə/  |
-|  vision    |  /ˈvɪʒn/   |
+|  vision    |  /ˈvɪʒən/  |
 |  beige     |  /beɪʒ/    |
 
 > Reference from BBCLearningEnglish
