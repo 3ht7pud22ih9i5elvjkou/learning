@@ -120,7 +120,7 @@
 |  Word     |  Sound      |
 |-----------|-------------|
 |  right    |  /raɪt/     |
-|  wrong    |  /wɒŋ/      |
+|  wrong    |  /rɒŋ/      |
 |  sorry    |  /ˈsɒrɪ/    |
 |  arrange  |  /əˈreɪnʤ/  |
 
