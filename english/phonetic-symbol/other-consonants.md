@@ -128,7 +128,7 @@
 
 |  /r/                |  /l/               |
 |---------------------|--------------------|
-|  wrong   /wɒŋ/      |  long   /lɒŋ/      |
+|  wrong   /rɒŋ/      |  long   /lɒŋ/      |
 |  royal   /ˈrɔɪjəl/  |  loyal  /ˈlɔɪjəl/  |
 |  misread /mɪsˈred/  |  misled /mɪsˈled/  |
 |  pirate  /ˈpaɪrət/  |  pilot  /ˈpaɪlət/  |
