@@ -165,7 +165,7 @@
 |------------|------------|
 |  leisure   |  /ˈleʒə/   |
 |  pleasure  |  /ˈpleʒə/  |
-|  vision    |  /ˈvɪʒən/  |
+|  vision    |  /ˈvɪʒn/  |
 |  beige     |  /beɪʒ/    |
 
 > Reference from BBCLearningEnglish
